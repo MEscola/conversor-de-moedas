@@ -1,0 +1,8 @@
+com/marcia/conversor/Key.class
+com/marcia/conversor/ConversorGUI.class
+com/marcia/conversor/FilterCurrencies.class
+com/marcia/conversor/Menu.class
+com/marcia/conversor/Main.class
+com/marcia/conversor/CurrencyParser.class
+com/marcia/conversor/Request.class
+com/marcia/conversor/Rates.class
