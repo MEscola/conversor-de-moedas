@@ -5,8 +5,9 @@ Projeto de conversor de moedas desenvolvido em Java, utilizando a **ExchangeRate
 
 ## 📸 Demonstração
 
-![Demonstração CLI](/conversor-de-moedas/conversor-moedas/src/Assets/CLI.png)
-![Demonstração GUI](/conversor-de-moedas/conversor-moedas/src/Assets/GUI.png)
+![Demonstração CLI](conversor-moedas/src/Assets/CLI.png)
+![Demonstração GUI](conversor-moedas/src/Assets/GUI.png)
+
 
 > Modo console:
 ```
