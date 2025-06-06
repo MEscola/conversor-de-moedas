@@ -5,8 +5,8 @@ Projeto de conversor de moedas desenvolvido em Java, utilizando a **ExchangeRate
 
 ## 📸 Demonstração
 
-![Demonstração CLI](https://img.shields.io/badge/Modo-Console-blue)
-![Demonstração GUI](https://img.shields.io/badge/Modo-Interface--Gráfica-green)
+![Demonstração CLI](/conversor-de-moedas/conversor-moedas/src/Assets/CLI.png)
+![Demonstração GUI](/conversor-de-moedas/conversor-moedas/src/Assets/GUI.png)
 
 > Modo console:
 ```
