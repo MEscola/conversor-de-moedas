@@ -97,4 +97,4 @@ Este projeto está licenciado sob a Licença MIT.
 
 ---
 
-Feito com 💙 por [Márcia Escolástico da Silva](https://www.linkedin.com/in/marcia-escolastico/)
+Feito  por [Márcia Escolástico da Silva](https://www.linkedin.com/in/marcia-escolastico/)
